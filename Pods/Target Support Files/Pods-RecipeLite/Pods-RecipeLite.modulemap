@@ -1,0 +1,6 @@
+framework module Pods_RecipeLite {
+  umbrella header "Pods-RecipeLite-umbrella.h"
+
+  export *
+  module * { export * }
+}
