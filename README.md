@@ -14,6 +14,8 @@ RecipeLite is a simple application that allows user to browse list of recipes an
 ## Architecture Used:
 - MVVM + Coordinator
 (Coordinator handles the navigation logic)
+
+## Other Features:
 - Independent modules enabling Dependency Injection and easy to Unit Test
 - Programmatically designed UI Interface
 - Unit Test for API logic and View Models
